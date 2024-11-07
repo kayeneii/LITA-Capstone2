@@ -1,12 +1,12 @@
 # LITA-Capstone2
 This data analysis and report was created for the Ladies in Tech Africa (LITA).
 
-[Overview](overview)
-[Dataset](dataset)
-[Methods](methods)
-[Findings and Recommendations](findings-and-recommendations)
-[Visualizations](visualizations)
-[Conclusion](conclusion)
+[Overview](#overview)
+[Dataset](#dataset)
+[Methods](#methods)
+[Findings and Recommendations](#findings-and-recommendations)
+[Visualizations](#visualizations)
+[Conclusion](#conclusion)
 
 
 ## Customer Segmentation for a Subscription Service 

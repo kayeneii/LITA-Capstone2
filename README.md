@@ -37,6 +37,7 @@ The following tools were used in the creation of this report.
      - What is the annual revenue per product?
      - What is the total number of customers per product?
      - Who are the top 10 customers?
+     - What is the quarterly revenue?
      - What is the percentage revenue by region?
 
   3. Data Visualization: Pivot Tables was utilized in providing answers to the questions that surfaced during the initial data exploration. 
@@ -93,6 +94,16 @@ The following tools were used in the creation of this report.
 
 ### Visualizations
 ---
+![Customer Data Viz](https://github.com/kayeneii/LITA-Capstone2/blob/main/Customer-Data-Viz.png)
+![Subscription Duration](https://github.com/kayeneii/LITA-Capstone2/blob/main/customer_sub%20duration.png)
+![Regional Revenue](https://github.com/kayeneii/LITA-Capstone2/blob/main/customer_reg%20rev.png)
+![Annual Revenue by Product](https://github.com/kayeneii/LITA-Capstone2/blob/main/customer_rev%20by%20p.png)
+![Total Customers by Product](https://github.com/kayeneii/LITA-Capstone2/blob/main/customer_total%20sales%20by%20p.png)
+![Top 10 Customers](https://github.com/kayeneii/LITA-Capstone2/blob/main/customer_top10.png)
+![Quarterly Revenue](https://github.com/kayeneii/LITA-Capstone2/blob/main/customer_reg%20per%20q.png)
+![Regional Revenue per cent](https://github.com/kayeneii/LITA-Capstone2/blob/main/customer_reg%20per%20cent.png)
+
+
 
 ### Conclusion
 ---

@@ -96,3 +96,5 @@ The following tools were used in the creation of this report.
 
 ### Conclusion
 ---
+This concludes the customer segmentation analysis of a subscription service's data as provided by the _Ladies in Tech Africa_ Data Analysis Program. Thank you for your time!
+Until my next report, you may find me [here.](https://www.linkedin.com/in/kayeneii/) I look forward to hearing from you. 😄

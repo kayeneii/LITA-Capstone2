@@ -58,7 +58,7 @@ The following tools were used in the creation of this report.
   and a Custom Column called, No of Customer.
 
      ```DAX
-     = [CustomerName] = 1     
+      = [CustomerName] = 1     
      ```
 
       
